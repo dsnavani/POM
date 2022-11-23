@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 // SIMPLE AVERAGE METHOD
 float simple_average(float arr[],int num)
 {
